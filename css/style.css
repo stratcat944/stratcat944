@@ -66,7 +66,7 @@
 
 .st-container > input:checked + a,
 .st-container > input:checked:hover + a{
-	background: #94CCFA;
+	background: #55aef7;
 }
 
 .st-container > input:checked + a:after,
@@ -78,14 +78,14 @@
 	width: 0;
 	position: absolute;
 	pointer-events: none;
-	border-bottom-color: #94CCFA;
+	border-bottom-color: #55aef7;
 	border-width: 20px;
 	left: 50%;
 	margin-left: -20px;
 }
 
 .st-container > input:hover + a{
-	background: #AD244F;
+	background: #0b8bf4;
 }
 
 .st-container > input:hover + a:after {
