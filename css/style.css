@@ -5,7 +5,7 @@
 	top: 0;
 	left: 0;
 	/*font-family: 'Josefin Slab', 'Myriad Pro', Arial, sans-serif;*/
-	font-family: 'Fixed';
+	font-family: sans-serif;
 }
 
 .st-container > input,
